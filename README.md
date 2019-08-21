@@ -5,10 +5,15 @@
 
 ## Description
 
-Create an application for people interested in checking a year if it is a leap year or not.
+Build an application that identifieswhether a given year is a leap year.
 ### Website should have:
 
-- A feature that asks users to enter a year and provides an answer. 
+- A feature that asks users to enter a year and provides an answer.
+- Return when a year is not a leap year.
+- Return 'true' for years divisible by 4, since those are leap years.
+- Return 'false' for years divisible by 100, since those are not leap years.
+- Return 'true' for years divisible by 400, since those are leap years.
+
 
 ## Setup/Installation Requirements
 
